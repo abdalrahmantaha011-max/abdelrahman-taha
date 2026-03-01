@@ -10,7 +10,7 @@ const projects = [
     descAr: "موقع متكامل لشركة تكييف، مع صفحات خدمات ونظام حجز وتصميم متجاوب.",
     stack: ["React", "Tailwind CSS", "TypeScript"],
     image: "/image-1.webp", // ضع الصورة في مجلد public/projects
-    link: "https://cool-air-digital-main.vercel.app" // رابط المشروع الحقيقي
+    link: "https://cool-air-liart.vercel.app" // رابط المشروع الحقيقي
   },
   {
     titleEn: "Gravity for Technical Services",
@@ -19,7 +19,7 @@ const projects = [
     descAr: "موقع متكامل لشركة خدمات، مع صفحات خدمات ونظام حجز وتصميم متجاوب.",
     stack: ["React", "Framer Motion", "CSS3"],
     image: "/image-2.webp",
-    link: "https://gravity-tech-partner-main.vercel.app"
+    link: "https://gravity-tech.vercel.app"
   },
   {
     titleEn: "Global Trade Hub",
@@ -28,7 +28,7 @@ const projects = [
     descAr: "منصة استيراد وتصدير ثنائية اللغة مع كتالوجات منتجات ونماذج استفسار وتحسين محركات البحث.",
     stack: ["React", "Tailwind", "i18n"],
     image: "/image-3.webp",
-    link: "https://wtc-global-gateway-main.vercel.app"
+    link: "https://wtc-global.vercel.app"
   },
 ];
 
